@@ -227,20 +227,6 @@ Xonix/
 
 > The executable must be run from the project root so it can find `Images/`, `fonts/`, and `PlayerData.csv` using relative paths.
 
----
 
-## Team
-
-**Group 39 — FAST NUCES**
-
-| Name | Role |
-|---|---|
-| Talha | Hash Table · Save/Load · Game Logic |
-| Syed | AVL Tree · Inventory System |
-| Hamza | Linked List · Friend System |
-| Areeba | Priority Queue · Matchmaking |
-| Hassan | Min Heap · Leaderboard · UI Screens |
-
----
 
 *Built as a Final Project for CS-2001 Data Structures & Algorithms — Spring 2025*
