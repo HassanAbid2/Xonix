@@ -1,0 +1,7 @@
+PlayerID,Username,Password,Nickname,ProfilePic,TotalPoints,Wins,Losses,PowerUpCount,HighScore,Friends,FriendRequests
+1,Talha,12345678,DJqamar,default.png,128088,12,14,210,80684,"6;2",""
+3,syed,12345678,gyatt,default.png,3677,2,3,107,43204,"4","6;2;5;1"
+4,hamza,12345678,JUTT,default.png,80,0,1,17,448,"2;3","5"
+5,Areeba,abcdef4444,sunrays,default.png,59036,4,1,67,59036,"2","6"
+6,hassan,qwertyuio2,bohat,default.png,22184,3,2,60,21628,"1",""
+7,suleman,12345789,suleman,default.png,2048,0,2,3,2048,"",""

@@ -1,0 +1,11 @@
+themeID,name,description,preview,backgroundImage
+1,Classic,Default game theme with classic colors.,#FFFFFF,images/background_menu2.jpg
+2,Night Mode,Dark background with neon accents.,#000000,images/night_mode.jpeg
+3,Ocean,Blue hues inspired by the sea.,#1E90FF,images/ocean.jpg
+4,Forest,Green-themed visuals for a natural feel.,#228B22,images/forest.jpg
+5,Desert,Sandy colors for an arid environment.,#EDC9AF,images/desert.jpeg
+6,Snow,White and light blue theme resembling a snowy landscape.,#ADD8E6,images/snow.jpg
+7,Sunset,Warm colors mimicking a beautiful sunset.,#FF4500,images/sunset.jpg
+8,Galaxy,Darker shades with star-like speckles.,#4B0082,images/galaxy.jpg
+9,Autumn,Rich oranges and browns reflecting autumn leaves.,#FF8C00,images/autumn.jpg
+10,Minimalist,Simple and clean design with neutral colors.,#C0C0C0,images/minimalist.jpg

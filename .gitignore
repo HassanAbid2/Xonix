@@ -1,0 +1,24 @@
+# Build output
+x64/
+Debug/
+Release/
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.exe
+*.exe.recipe
+*.log
+*.tlog
+
+# Visual Studio user files
+*.user
+*.suo
+.vs/
+
+# Save files (personal game progress)
+SavedGames/*.csv
+
+# OS
+Thumbs.db
+.DS_Store
